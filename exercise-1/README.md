@@ -21,3 +21,6 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 
 
 7. Push changes up to GitHub
+
+
+Hi, for my breakfast, I want to order an omelette with tomatoes, spinich, mushroom and a little cheese please. I also want a cup of tea, thanks.
